@@ -1,6 +1,7 @@
 <p align="center">
   <!-- LOGO -->
-  <img src="https://img.icons8.com/fluency/256/code.png" width="120" />
+  <!img src="https://img.icons8.com/fluency/256/code.png" width="120" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">Kritika Niranjan Dangi</span> 👋</h1>
