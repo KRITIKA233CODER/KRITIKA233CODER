@@ -26,7 +26,7 @@ I am a frontend developer (B.Tech — VIT Bhopal, 2027) focused on building **fa
 - Strong foundation in JavaScript (ES6+), React Hooks, component architecture, and REST API integration.  
 - Comfortable with Tailwind CSS, Vite, Next.js, and deploying apps to Vercel.  
 
-*Frontend resume (PDF):* :contentReference[oaicite:1]{index=1}
+*Frontend resume (PDF):* :https://drive.google.com/file/d/1Zek5jVROdtObokhXuNtiUu7FCBn_-71X/view?usp=sharing
 
 ---
 
